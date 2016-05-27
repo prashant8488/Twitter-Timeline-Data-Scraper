@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="D:/Research Project/TwitterScraper/Twitter_lib/twitter4j-async-4.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Research Project/TwitterScraper/Twitter_lib/twitter4j-core-4.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Research Project/TwitterScraper/Twitter_lib/twitter4j-media-support-4.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Research Project/TwitterScraper/Twitter_lib/twitter4j-stream-4.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Research Project/TwitterScraper/Twitter_lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Research Project/TwitterScraper/Twitter_lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/Research Project/TwitterScraper/Twitter_lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Research Project/TwitterScraper/Twitter_lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="D:/Research Project/TwitterScraper/Twitter_lib/jackcess-2.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Research Project/TwitterScraper/Twitter_lib/javax.mail.jar"/>
+	<classpathentry kind="lib" path="D:/Research Project/TwitterScraper/Twitter_lib/json-20151123.jar"/>
+	<classpathentry kind="lib" path="D:/Research Project/TwitterScraper/Twitter_lib/jsonic-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Research Project/TwitterScraper/Twitter_lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="D:/Research Project/TwitterScraper/Twitter_lib/langdetect.jar"/>
+	<classpathentry kind="lib" path="D:/Research Project/TwitterScraper/Twitter_lib/poi-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="D:/Research Project/TwitterScraper/Twitter_lib/poi-excelant-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="D:/Research Project/TwitterScraper/Twitter_lib/poi-ooxml-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="D:/Research Project/TwitterScraper/Twitter_lib/poi-ooxml-schemas-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="D:/Research Project/TwitterScraper/Twitter_lib/poi-scratchpad-3.12-20150511.jar"/>
+	<classpathentry kind="lib" path="D:/Research Project/TwitterScraper/Twitter_lib/selenium-server-standalone-2.48.2.jar"/>
+	<classpathentry kind="lib" path="D:/Research Project/TwitterScraper/Twitter_lib/ucanaccess-3.0.2.jar"/>
+	<classpathentry kind="lib" path="D:/Research Project/TwitterScraper/Twitter_lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
